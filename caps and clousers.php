@@ -20,7 +20,6 @@
             <div class="col-lg-12">
                 <div class="row g-5">
                     <?php
-                    // Array of caps and closures images and descriptions
                    $products = [
                         ["Flip top caps.jpg", "Flip Top Caps", "Convenient flip-top caps, perfect for everyday use and secure sealing."],
                         ["apple ftc caps.jpg", "Apple FTC Caps", "Stylish flip-top caps with a twist mechanism for an elegant seal."],
@@ -78,7 +77,7 @@
 
 <!-- JavaScript for Modal & Image Navigation -->
 <script>
-    // Array to store image paths and descriptions
+   
     const images = [
         <?php foreach ($products as $product) { echo "'product/".$product[0]."',"; } ?>
     ];
@@ -166,8 +165,8 @@
     }
 
    .modal-content {
-        max-width: 700px;
-        max-height: 700px;
+        max-width: 701px;
+        max-height: 701px;
         border-radius: 10px; 
         transition: transform 0.3s ease-in-out;  
         transform: scale(1);  
