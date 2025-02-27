@@ -29,8 +29,7 @@
             z-index: 999;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             top: 0; /* Align with the header */
-            /*left: 60%;   Position to the right of the header */
-            /*margin-left: 50px; Space between the header and address box */
+            
         }
 
         /* Close Button */

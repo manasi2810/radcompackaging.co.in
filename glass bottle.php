@@ -34,9 +34,7 @@
                                         ["Cos Glass Bottles.jpg", "Cos Glass Bottles", "Elegant glass perfume bottles for luxury fragrances with a classic appeal."], 
                                         ["Dropper.jpg", "Dropper", "Precision dropper bottles for accurate dispensing of essential oils and serums."], 
                     ];
-
-
-                    // Loop through images and descriptions
+ 
                     foreach ($products as $index => $product) {
                         echo '
                         <div class="col-md-4 wow slideInUp" data-wow-delay="'.(0.1 * ($index % 3)).'s">

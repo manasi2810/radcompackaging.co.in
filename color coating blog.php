@@ -8,7 +8,7 @@
                     <i class="far fa-circle text-white px-2"></i>
                      <a href="blog.php" class="h5 text-white">Blog</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="color coating blog.php" class="h5 text-white">Blog - Color Coating </a>
+                    <a href="color coating blog.php" class="h5 text-white">Blog -Color Coating </a>
                 </div>
             </div>
         </div>
@@ -44,7 +44,6 @@
                    <img class="img-fluid w-50 rounded mb-5" src="img/blog-3.jpg" alt=""> 
                     <h1 class="mb-4">Color Coating in Packaging: Techniques, Benefits, and Industry Trends</h1>
                     <p>Color coating plays a significant role in the packaging industry by enhancing aesthetics, brand identity, and product differentiation. With advancements in technology, color coatings now offer durability, protection, and eco-friendly solutions.</p>
-                    
                     <h2>1. Importance of Color Coating in Packaging</h2>
                     <p>Color coating is more than just visual appeal; it improves product recognition, influences consumer behavior, and provides protection against environmental factors such as UV rays and moisture.</p>
                     
@@ -55,19 +54,16 @@
                         <li><b>UV Coating:</b> A high-gloss finish that enhances color vibrancy and protects against fading.</li>
                         <li><b>Electrostatic Coating:</b> Ensures uniform coverage and adhesion on complex packaging surfaces.</li>
                         <li><b>Water-Based Coating:</b> A sustainable and environmentally friendly alternative to solvent-based coatings.</li>
-                    </ul>
-                    
+                    </ul> 
                     <h2>3. Advantages of Color Coating</h2>
                     <ul>
                         <li>Enhances brand recognition and visual appeal.</li>
                         <li>Improves resistance to scratches, UV rays, and moisture.</li>
                         <li>Eco-friendly coatings contribute to sustainable packaging solutions.</li>
                         <li>Customizable finishes, including matte, gloss, metallic, and textured effects.</li>
-                    </ul>
-                    
+                    </ul> 
                     <h2>4. Industry Trends in Color Coating</h2>
                     <p>As sustainability gains importance, the packaging industry is shifting towards non-toxic, biodegradable, and recyclable coatings. Brands are also exploring color-changing coatings that react to temperature and light for interactive consumer engagement.</p>
-                    
                     <h2>5. The Future of Color Coating</h2>
                     <p>Innovations such as smart coatings with anti-counterfeit properties and nanotechnology-infused coatings for enhanced durability are set to revolutionize the industry. With increasing regulations on hazardous chemicals, eco-friendly coatings will dominate the future market.</p>
                 </div>

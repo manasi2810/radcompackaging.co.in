@@ -235,8 +235,8 @@ if (isset($_POST['send'])) {
       switch ($department) {
         case '1': $recipientEmail = 'mansi@radcompackaging.com'; break; 
         case '2': $recipientEmail = 'digital@radcompackaging.com'; break; 
-        case '3': $recipientEmail = 'salse1@radcompackaging.com'; break; 
-        case '4': $recipientEmail = 'salse2@radcompackaging.com'; break; 
+        case '3': $recipientEmail = 'mansi@radcompackaging.com'; break; 
+        case '4': $recipientEmail = 'salserppl@radcompackaging.com'; break; 
         case '5': $recipientEmail = 'salse3@radcompackaging.com'; break; 
         case '6': $recipientEmail = 'purchase@radcompackaging.com'; break;  
         case '7': $recipientEmail = 'hrnew@radcompackaging.com'; break; 

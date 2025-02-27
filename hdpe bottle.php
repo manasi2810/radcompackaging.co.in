@@ -20,7 +20,7 @@
             <div class="col-lg-12">
                 <div class="row g-5">
                     <?php
-                    // Array of HDPE bottle images and descriptions
+                   
                    $products = [
                         ["hdpe slant bottle.jpg", "HDPE Slant Bottle", "Sleek slant-shaped HDPE bottle, perfect for various product applications."],
                         ["hdpe tulip bottle.jpg", "HDPE Tulip Bottle", "Elegant tulip-shaped HDPE bottle, ideal for premium packaging and aesthetics."],
