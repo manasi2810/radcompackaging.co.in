@@ -32,8 +32,7 @@
             </div>
         </div>
     </div>
-    <!-- Full Screen Search End -->
-
+    <!-- Full Screen Search End --> 
   <!-- Blog Start -->
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5">
@@ -88,6 +87,5 @@
         </div>
     </div>
 </div>
-<!-- Blog End -->
-  
+<!-- Blog End --> 
 <?php include 'footer.php';?>

@@ -36,8 +36,7 @@
                         ["Pet Bottle.jpg", "Pet Bottle", "Versatile bottle design, suitable for beverages, cleaning agents, and more."],
                         ["Pet Roll on-.jpg", "Pet Roll on", "Compact roll-on bottle for personal care products, convenient for on-the-go use."]
 ];
-
-                    // Loop through images and apply the new style
+ 
                     foreach ($products as $index => $product) {
                         echo '
                         <div class="col-md-4 wow slideInUp" data-wow-delay="'.(0.1 * ($index % 3)).'s">

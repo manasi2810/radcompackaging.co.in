@@ -35,9 +35,7 @@
                         ["measuring cup.jpg", "Measuring Cup", "Precise and practical measuring cup for accurate liquid measurements."],
                         ["flip top caps 3.jpg", "Flip Top Caps", "Flip-top caps designed for effortless application and reusability."]
 ];
-
-
-                    // Loop through images and descriptions
+ 
                     foreach ($products as $index => $product) {
                         echo '
                         <div class="col-md-4 wow slideInUp" data-wow-delay="'.(0.1 * ($index % 3)).'s">

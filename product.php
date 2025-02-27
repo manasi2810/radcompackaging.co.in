@@ -165,6 +165,7 @@
                 <!-- Blog list End -->
             </div>
         </div>
+        
     </div>
     <!-- Blog End -->
    <?php include 'footer.php';?>

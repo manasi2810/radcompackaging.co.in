@@ -20,7 +20,7 @@
             <div class="col-lg-12">
                 <div class="row g-5">
                     <?php
-                    // Array of jar images and descriptions
+                   
                    $products = [
                         ["A17-pump.jpg", "A17-pump", "High-quality pump for versatile applications and precise dispensing."],
                         ["A21-pump.jpg", "A21-pump", "Durable pump with advanced features for various uses."],
