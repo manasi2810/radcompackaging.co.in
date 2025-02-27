@@ -47,12 +47,12 @@
                         <li><b>Smart Factories:</b> Integration of IoT and data analytics for optimized production.</li>
                         <li><b>3D Printing:</b> Rapid prototyping and customized manufacturing solutions.</li>
                         <li><b>Sustainable Manufacturing:</b> Eco-friendly practices, energy-efficient machinery, and reduced waste.</li>
-                        <li><b>Reshoring & Localized Production:</b> Reducing supply chain risks by manufacturing closer to demand areas.</li>
+                        <!-- <li><b>Reshoring & Localized Production:</b> Reducing supply chain risks by manufacturing closer to demand areas.</li> -->
                     </ul>
                     <h2>3. Innovations in Manufacturing</h2>
                     <p>With technology playing a key role, industries are embracing AI-powered machines, digital twins, and predictive maintenance to enhance productivity and reduce downtime.</p> 
                     <h2>4. The Role of Sustainable Manufacturing</h2>
-                    <p>Eco-conscious consumers and regulations are driving companies toward greener production methods. Businesses are focusing on renewable energy, recycled materials, and zero-waste policies.</p> 
+                    <p>Eco-conscious consumers and regulations are driving companies toward greener production methods.Businesses are focusing on renewable energy, recycled materials, and zero-waste policies.</p> 
                     <h2>5. The Future of Manufacturing</h2>
                     <p>The manufacturing industry is heading towards full automation, sustainable solutions, and AI-driven decision-making. The adoption of Industry 4.0 will redefine global supply chains and production capabilities.</p>
                 </div>
@@ -61,5 +61,7 @@
         </div>
     </div>
 </div>
+
+
 <!-- Blog End --> 
 <?php include 'footer.php';?>
